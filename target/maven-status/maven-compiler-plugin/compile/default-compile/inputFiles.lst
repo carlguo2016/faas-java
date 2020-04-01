@@ -1,0 +1,11 @@
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/model/User.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/config/MybatisPlusConfig.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/controller/UserController.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/config/GlobalExceptionHandler.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/OtaApplication.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/model/enums/UserStatusEnum.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/config/SwaggerConfig.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/dao/UserMapper.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/service/IUserService.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/bean/po/UserSavePO.java
+/Users/carl/Workspace/localFile/faas-java/src/main/java/com/asu/ota/service/impl/UserServiceImpl.java
